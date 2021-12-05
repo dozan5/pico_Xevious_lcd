@@ -26,7 +26,7 @@ Arduinoシールド用
 　　・JP5-1　LCD032-2P/M032C9341B3等用  
 　　・JP5-2　Arduinoシールド用  
 　　・JP6　ジャンパーピン　LCD_SEL　天地切替  
-　　・JP7-1，-2　YMF825Board（要3.3V対応改造）  
+　　・JP7-1，-2　YMF825Board（要3.3V改造）  
 　　・JP8　ジャンパーピン　FM音源 ON/OFF  8Bit
 
 ## 接続  
@@ -57,5 +57,5 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_1289.uf2　aitendo　LCD032-2P(SSD1289)  
 　Xevious_lcd_8347.uf2　aitendo　M028C8347D8(HX8347D)  
 　Xevious_lcd_9486.uf2　aitedno　M035C9486LB3(ILI9486L)  
-　※　LCDの解像度320x480の為　縦横を1.5倍に拡大しています。  
+　※LCDの解像度320x480の為　縦横を1.5倍に拡大しています。  
  
