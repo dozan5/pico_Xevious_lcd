@@ -27,7 +27,7 @@ Arduinoシールド用
 　　・JP5-2　Arduinoシールド用  
 　　・JP6　ジャンパーピン　LCD_SEL　天地切替  
 　　・JP7-1，-2　YMF825Board（要3.3V改造）  
-　　・JP8　ジャンパーピン　FM音源 ON/OFF  8Bit
+　　・JP8　ジャンパーピン　FM音源 ON/OFF  8Bit  
 
 ## 接続  
 LCD 8Bitパラレル用の使用ポート  
