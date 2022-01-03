@@ -9,10 +9,10 @@ Raspberry Pi Picoへ移植しました。
 　[Raspberry Pi Picoでピコピコサウンドを出してみる](https://blog.boochow.com/article/pico-pwm-sound.html)  
 　を参考にさせて頂きました。  
  
-8Bit接続用  
+40PIN液晶用  
 ![](Xevious1.jpg)  
 
-Arduinoシールド用  
+Arduinoシールド用、3和音シールド、FM音源シールド　　
 ![](Xevious2.jpg)  
 
 動作写真  
@@ -30,9 +30,8 @@ Arduinoシールド用
 　　・JP6　ジャンパーピン　単音PWM SOUND ON/OFF  
 　　・JP6-1,-2 (OPTOIN) 3和音PWM or FM音源  
 　　・JP7-1,-2 (OPTION) スピーカー切替用  
-  
     
-Arduino液晶用
+Arduino液晶用,3和音用シールド,FM音源用シールド  
 ![](Xevious_lcd_Arduino.jpg)  
 　　・JP1　picosoft製　Raspberry Pi Pico開発支援ボード  
 　　・JP2　Arduino液晶用  
