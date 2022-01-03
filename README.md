@@ -8,11 +8,12 @@ Raspberry Pi Picoへ移植しました。
 ※3和音PWMは　boochowp様　[楽しくやろう。](https://blog.boochow.com/)内の  
 　[Raspberry Pi Picoでピコピコサウンドを出してみる](https://blog.boochow.com/article/pico-pwm-sound.html)  
 　を参考にさせて頂きました。  
+　尚　3和音PWMは仕組み上　音量は小さい為アンプが必要です 。  
  
 40PIN液晶用  
 ![](Xevious1.jpg)  
 
-Arduinoシールド用、3和音シールド、FM音源シールド　　
+Arduinoシールド用、　3和音シールド、　FM音源シールド　　
 ![](Xevious2.jpg)  
 
 動作写真  
