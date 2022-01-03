@@ -1,10 +1,14 @@
 # Raspberry Pi Pico版 Xeviousもどき  
 ケンケン様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 Raspberry Pi Picoへ移植しました。  
-音声はPWMとYAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) を追加(要3.3V改造)。  
+音声は単音PWM、3和音PWM、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)。  
 フレームレートはPIC版と同じく30fpsを達成。  
 <ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html  
 
+※3和音PWMは　boochowp様　[楽しくやろう。](https://blog.boochow.com/)内の  
+　[Raspberry Pi Picoでピコピコサウンドを出してみる](https://blog.boochow.com/article/pico-pwm-sound.html)  
+　を参考にさせて頂きました。  
+ 
 8Bit接続用  
 ![](Xevious1.jpg)  
 
@@ -16,19 +20,27 @@ Arduinoシールド用
 動画は[こちら](https://youtu.be/OOlS4jG3gyY)で公開しています。  
 
 ## 回路図  
-![](Xevious_lcd_sch.jpg)  
-　一応SDカードの配線も実施。  
-　その関係で空きポートが無くなりました。  
+40PIN液晶用
+![](Xevious_lcd_40pin.jpg)  
 　　・JP1　picosoft製　Raspberry Pi Pico開発支援ボード  
-　　・JP2　picosoft製　ゲームキーボード  
-　　・JP3　ジャンパーピン　PWM SOUND ON/OFF  
-　　・JP4-0～JP4-7　ジャンパーピン　D0-D7/D8-D15　切替  
-　　・JP5-1　LCD032-2P/M032C9341B3等用  
-　　・JP5-2　Arduinoシールド用  
-　　・JP6　ジャンパーピン　LCD_SEL　天地切替  
-　　・JP7-1，-2　YMF825Board（要3.3V改造）  
-　　・JP8　ジャンパーピン　FM音源 ON/OFF  8Bit  
-
+　　・JP2　LCD032-2P/M032C9341B3等用  
+　　・JP3　picosoft製　ゲームキーボード  
+　　・JP4　ジャンパーピン　LCD_SEL　天地切替  
+　　・JP5-0～JP5-7　ジャンパーピン　D0-D7/D8-D15　切替  
+　　・JP6　ジャンパーピン　単音PWM SOUND ON/OFF  
+　　・JP6-1,-2 (OPTOIN) 3和音PWM or FM音源  
+　　・JP7-1,-2 (OPTION) スピーカー切替用  
+  
+    
+Arduino液晶用
+![](Xevious_lcd_Arduino.jpg)  
+　　・JP1　picosoft製　Raspberry Pi Pico開発支援ボード  
+　　・JP2　Arduino液晶用  
+　　・JP3　picosoft製　ゲームキーボード  
+　　・JP4　ジャンパーピン　LCD_SEL　天地切替  
+　　・JP5　ジャンパーピン　単音PWM SOUND ON/OFF  
+　　・JP6-1,-2 (OPTOIN) 3和音PWM or FM音源  
+  
 ## 接続  
 LCD 8Bitパラレル用の使用ポート  
 　Pico　　　LCD  
@@ -47,15 +59,20 @@ LCD 8Bitパラレル用の使用ポート
 　GPIO27　　RST  
 
 ## 公開プログラム  
+uf2フォルダー  
+　Normalフォルダー　・・・　単音PWM  
+　PWMフォルダー　 ・・・・　3和音PWM  
+　FMフォルダー　・・・・・　FM音源  
+
 Arduinoシールド用　　　　　確認済みLCD  
-　Xevious_lcd_9325.uf2　aitendo　M024C9325SLD (ILI9325)  
-　Xevious_lcd_0154.uf2　aitendo　UL024C0154D8(S6D0154)  
-　Xevious_lcd_8031.uf2　上記LCDで動作しない場合はお試しください。  
+　Xevious_lcd_9325_XXX.uf2　aitendo　M024C9325SLD (ILI9325)  
+　Xevious_lcd_0154_XXX.uf2　aitendo　UL024C0154D8(S6D0154)  
+　Xevious_lcd_8031_XXX.uf2　上記LCDで動作しない場合はお試しください。  
 
 8Bit接続用　　　　　　　　確認済みLCD  
-　Xevious_lcd_9341.uf2　aitendo　M032C9341B3(ILI9341)    
-　Xevious_lcd_1289.uf2　aitendo　LCD032-2P(SSD1289)  
-　Xevious_lcd_8347.uf2　aitendo　M028C8347D8(HX8347D)  
-　Xevious_lcd_9486.uf2　aitedno　M035C9486LB3(ILI9486L)  
+　Xevious_lcd_9341_XXX.uf2　aitendo　M032C9341B3(ILI9341)    
+　Xevious_lcd_1289_XXX.uf2　aitendo　LCD032-2P(SSD1289)  
+　Xevious_lcd_8347_XXX.uf2　aitendo　M028C8347D8(HX8347D)  
+　Xevious_lcd_9486_XXX.uf2　aitedno　M035C9486LB3(ILI9486L)  
 　※LCDの解像度320x480の為　縦横を1.5倍に拡大しています。  
  
