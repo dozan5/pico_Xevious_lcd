@@ -18,7 +18,7 @@ Arduinoシールド用、　3和音シールド、　FM音源シールド　　
 
 動作写真  
 ![](Xevious3.jpg)  
-動画は[こちら](https://youtu.be/OOlS4jG3gyY)で公開しています。  
+動画は[こちら](https://youtu.be/qzr7wMj9juU)で公開しています。  
 
 ## 回路図  
 40PIN液晶用
