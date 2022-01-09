@@ -69,7 +69,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_0154_XXX.uf2　aitendo　UL024C0154D8(S6D0154)  
 　Xevious_lcd_8031_XXX.uf2　上記LCDで動作しない場合はお試しください。  
 
-8Bit接続用　　　　　　　　　確認済みLCD  
+8bit接続用　　　　　　　　　確認済みLCD  
 　Xevious_lcd_9341_XXX.uf2　aitendo　M032C9341B3(ILI9341)    
 　Xevious_lcd_1289_XXX.uf2　aitendo　LCD032-2P(SSD1289)  
 　Xevious_lcd_8347_XXX.uf2　aitendo　M028C8347D8(HX8347D)  
