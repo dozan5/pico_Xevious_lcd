@@ -65,14 +65,14 @@ uf2フォルダー
 　FMフォルダー　・・・・・　FM音源  
 
 Arduinoシールド用　　　　　確認済みLCD  
-　Xevious_lcd_9325_XXX.uf2　aitendo　M024C9325SLD (ILI9325)  
-　Xevious_lcd_0154_XXX.uf2　aitendo　UL024C0154D8(S6D0154)  
+　Xevious_lcd_9325_XXX.uf2　aitendo [M024C9325SLD](https://www.aitendo.com/product/15381 )(ILI9325)  
+　Xevious_lcd_0154_XXX.uf2　aitendo [UL024C0154D8](https://www.aitendo.com/product/16104)(S6D0154)    
 　Xevious_lcd_8031_XXX.uf2　上記LCDで動作しない場合はお試しください。  
 
 8bit接続用　　　　　　　　　確認済みLCD  
-　Xevious_lcd_9341_XXX.uf2　aitendo　M032C9341B3(ILI9341)    
-　Xevious_lcd_1289_XXX.uf2　aitendo　LCD032-2P(SSD1289)  
-　Xevious_lcd_8347_XXX.uf2　aitendo　M028C8347D8(HX8347D)  
-　Xevious_lcd_9486_XXX.uf2　aitedno　M035C9486LB3(ILI9486L)  
+　Xevious_lcd_9341_XXX.uf2　aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)     
+　Xevious_lcd_1289_XXX.uf2　aitendo [LCD032-2P](https://www.aitendo.com/product/13748)(SSD1289)  
+　Xevious_lcd_8347_XXX.uf2　aitendo [M028C8347D8](https://www.aitendo.com/product/10942)(HX8347-D)  
+　Xevious_lcd_9486_XXX.uf2　aitendo [M035C9486LB3](https://www.aitendo.com/product/11138)(ILI9486L)  
 　※LCDの解像度320x480の為　縦横を1.5倍に拡大しています。  
  
