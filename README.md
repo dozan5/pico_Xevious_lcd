@@ -5,9 +5,11 @@ Raspberry Pi Picoへ移植しました。
 
 LCDへの8bitデータの出力と書込み(WR)をpioで処理し自動化しました。  
 又　メインの処理（core0）と音声の処理（core1)をマルチコア化しました。  
-LCDへの全画面転送時間がを約18.8msから約15.2msへ短縮する事が出来ました。
 
-最終的なフレームレートはPIC版と同じく30fpsを達成。  
+core0がメインの処理専用となりましたので　LCDへの全画面転送時間が  
+約18.8msから約15.2msへ高速化(124%)する事が出来ました。  
+但し　他の処理の関係でフレームレートはPIC版と同じく30fpsになります。  
+
 <ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html  
 
 ※3和音PWMは　boochowp様　[楽しくやろう。](https://blog.boochow.com/)内の  
