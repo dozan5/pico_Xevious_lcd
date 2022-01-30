@@ -70,7 +70,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_8031_XXX.uf2　上記LCDで動作しない場合はお試しください。  
 
 　【追加】  
-　Xevious_lcd_9486_pico_XXX.uf2　ORANGE pico社 [(3.5インチTFT液晶](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-045.html)(ILI9486)   
+　Xevious_lcd_9486_pico_XXX.uf2　ORANGE pico社 [3.5インチTFT液晶(Arduinoシールド)](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-045.html)(ILI9486)   
 　　従来のILI9486版ではLCDパネルの仕様の違いで色の発色が異なる場合が有ります。  
 　　その場合はこちらをご使用ください。  
 
