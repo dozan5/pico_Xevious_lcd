@@ -2,7 +2,12 @@
 ケンケン様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 Raspberry Pi Picoへ移植しました。  
 音声は単音PWM、3和音PWM、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)。  
-フレームレートはPIC版と同じく30fpsを達成。  
+
+LCDへの8bitデータの出力と書込み(WR)をpioで処理し自動化しました。  
+又　メインの処理（core0）と音声の処理（core1)をマルチコア化しました。  
+LCDへの全画面転送時間がを約18.8msから約15.2msへ短縮する事が出来ました。
+
+最終的なフレームレートはPIC版と同じく30fpsを達成。  
 <ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html  
 
 ※3和音PWMは　boochowp様　[楽しくやろう。](https://blog.boochow.com/)内の  
