@@ -68,6 +68,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_9325_XXX.uf2　aitendo [M024C9325SLD](https://www.aitendo.com/product/15381 )(ILI9325)  
 　Xevious_lcd_0154_XXX.uf2　aitendo [UL024C0154D8](https://www.aitendo.com/product/16104)(S6D0154)    
 　Xevious_lcd_8031_XXX.uf2　上記LCDで動作しない場合はお試しください。  
+　Xevious_lcd_0154_XXX.uf2　PRAGE pico [3.5インチTFT液晶(Arduinoシールド)](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-045.html)(ILI9486)   
 
 8bit接続用　　　　　　　　　確認済みLCD  
 　Xevious_lcd_9341_XXX.uf2　aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)     
