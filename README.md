@@ -79,7 +79,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　　従来のILI9486版ではLCDパネルの仕様の違いで色の発色が異なる場合が有ります。  
 　　その場合はこちらをご使用ください。  
 
-　【追加】  
+ 【追加】  
 　Xevious_lcd_9341_XXX.uf2　ORANGE pico社 [2.4インチTFT液晶(Arduinoシールド)](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-046.html)(ILI9341)  
 
 8bit接続用　　　　　　　　　確認済みLCD  
