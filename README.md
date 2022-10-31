@@ -115,10 +115,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　　GPI14  　RST  
 　　GPI15  　SEL  
 
-　　FM接続用SPI　FM_SS 27  
+　　GPI27　　FM_SS(FM接続用SPI）  
 
-　　SOUNDとGameコントローラーはMachiKania type Pと  
+　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
-
-
-
