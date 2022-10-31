@@ -91,3 +91,6 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_9320_XXX.uf2　aitendo M024C9320TP(ILI9320,R61505)  
 　　※工作魂様より提供頂きました。　有難うございました。  
   
+
+## [MachiKania](https://www.aitendo.com/product/11138) 対応  
+<ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html　 
