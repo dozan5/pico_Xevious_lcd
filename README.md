@@ -119,3 +119,5 @@ Arduinoシールド用　　　　　確認済みLCD
 
 　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
+
+MachiKania type Pフォルダー内のファイルを参照ください。  
