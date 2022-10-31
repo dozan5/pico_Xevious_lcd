@@ -92,5 +92,5 @@ Arduinoシールド用　　　　　確認済みLCD
 　　※工作魂様より提供頂きました。　有難うございました。  
   
 
-## [MachiKania](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html)) 対応  
+## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
 <ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html　 
