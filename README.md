@@ -93,7 +93,32 @@ Arduinoシールド用　　　　　確認済みLCD
   
 
 ## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
-　ケンケン様作成のMachiKania type P用の基板を[工作魂様](https://twitter.com/porokin)が  
-　作成して頂きました。  
+　ケンケン様作成のMachiKania type P用の試作基板を[工作魂様](https://twitter.com/porokin)が  
+　作成されました。  
 　工作魂様　試作基板（Ver.1.0）    
 ![](Xevious4.jpg)  
+
+　使用ポート  
+　　Pico　　LCD  
+　　GPI 0　　D0 or D8  
+　　GPI 1　　D1 or D9   
+　　GPI 2　　D2 or D10  
+　　GPI 3　　D3 or D11  
+　　GPI 4　　D4 or D12  
+　　GPI 5　　D5 or D13  
+　　GPI 6　　D6 or D14  
+　　GPI 7　　D7 or D15  
+　　GPI10  　RD  
+　　GPI11  　WR  
+　　GPI12  　RS  
+　　GPI13  　CS  
+　　GPI14  　RST  
+　　GPI15  　SEL  
+
+　　FM接続用SPI　FM_SS 27  
+
+　　SOUNDとGameコントローラーはMachiKania type Pと  
+　　同じポートを使用。  
+
+
+
