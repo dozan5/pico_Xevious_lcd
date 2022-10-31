@@ -93,4 +93,7 @@ Arduinoシールド用　　　　　確認済みLCD
   
 
 ## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
-<ケンケン様>作成のMachiKania type Pの基板を[工作魂様](https://twitter.com/porokin)
+　ケンケン様作成のMachiKania type P用の基板を[工作魂様](https://twitter.com/porokin)が  
+　作成して頂きました。  
+　工作魂様　試作基板（Ver.1.0）    
+![](Xevious4.jpg)  
