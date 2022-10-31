@@ -1,5 +1,5 @@
 # Raspberry Pi Pico版 Xeviousもどき  
-ケンケン様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
+Katsumi様、KenKen様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 Raspberry Pi Picoへ移植しました。  
 音声は単音PWM、3和音PWM、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)。  
 
@@ -93,7 +93,7 @@ Arduinoシールド用　　　　　確認済みLCD
   
 
 ## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
-　ケンケン様作成のMachiKania type P用の試作基板を[工作魂様](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB)が  
+　Katsumi様、KenKen様作成のMachiKania type P用の試作基板を[工作魂様](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB)が  
 　作成されました。  
 　工作魂様　試作基板（Ver.1.0）    
 ![](Xevious4.jpg)  
