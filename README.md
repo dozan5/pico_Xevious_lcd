@@ -83,14 +83,15 @@ Arduinoシールド用　　　　　確認済みLCD
 　Xevious_lcd_9341_XXX.uf2　ORANGE pico社 [2.4インチTFT液晶(Arduinoシールド)](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-046.html)(ILI9341)  
 
 8bit接続用　　　　　　　　　確認済みLCD  
+D0-D7用  
 　Xevious_lcd_9341_XXX.uf2　aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)     
+　Xevious_lcd_9320_XXX.uf2　aitendo M024C9320TP(ILI9320,R61505)  
+　　※工作魂様より提供頂きました。　有難うございました。  
+D8-D15用  
 　Xevious_lcd_1289_XXX.uf2　aitendo [LCD032-2P](https://www.aitendo.com/product/13748)(SSD1289)  
 　Xevious_lcd_8347_XXX.uf2　aitendo [M028C8347D8](https://www.aitendo.com/product/10942)(HX8347-D)  
 　Xevious_lcd_9486_XXX.uf2　aitendo [M035C9486LB3](https://www.aitendo.com/product/11138)(ILI9486L)  
 　　※LCDの解像度320x480の為　縦横を1.3倍(320/240)に拡大しています。  
-　Xevious_lcd_9320_XXX.uf2　aitendo M024C9320TP(ILI9320,R61505)  
-　　※工作魂様より提供頂きました。　有難うございました。  
-  
 
 ## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
 　Katsumi様、KenKen様作成のMachiKania type P用の試作基板を[工作魂様](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB)が  
