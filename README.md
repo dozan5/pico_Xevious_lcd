@@ -109,12 +109,12 @@ Arduinoシールド用　　　　　確認済みLCD
 　　GPI 5　　D5 or D13  
 　　GPI 6　　D6 or D14  
 　　GPI 7　　D7 or D15  
-　　GPI10  　RD  
-　　GPI11  　WR  
-　　GPI12  　RS  
-　　GPI13  　CS  
-　　GPI14  　RST  
-　　GPI15  　SEL  
+　　GPI10   　RD  
+　　GPI11   　WR  
+　　GPI12   　RS  
+　　GPI13   　CS  
+　　GPI14   　RST  
+　　GPI15   　SEL  
 
 　　GPI27　　FM_SS(FM接続用SPI）  
 
