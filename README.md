@@ -84,7 +84,7 @@ Arduinoシールド用　　　　　確認済みLCD
 
 8bit接続    
 　D0-D7用　　　　　　　　　　　　　確認済みLCD  
-　　Xevious_lcd_9341_XXX.uf2　aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)     　
+　　Xevious_lcd_9341_XXX.uf2　aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)  
 　　Xevious_lcd_9320_XXX.uf2　aitendo M024C9320TP(ILI9320,R61505)  
 　　　※工作魂様より提供頂きました。　有難うございました。  
 　D8-D15用  
