@@ -93,7 +93,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　　Xevious_lcd_9320_XXX.uf2　aitendo M024C9320TP(ILI9320,R61505)  
 　　　※工作魂様より提供頂きました。　有難うございました。 
 ## [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html) 対応  
-　8bit版  
+　8bit接続版  
 　Katsumi様、KenKen様作成のMachiKania type P用の試作基板を[工作魂様](https://github.com/kosaku-damashii/MachiKania-MachiKaniaPhyllosomaBB)が  
 　作成されました。  
 　工作魂様　試作基板（Ver.1.0）    
@@ -117,6 +117,11 @@ Arduinoシールド用　　　　　確認済みLCD
 　　GPI15　　LCD_SEL  
 
 　　GPI27　　FM_SS(FM接続用SPI）  
+
+　SPI接続版  
+![](Xevious5.jpg)  
+
+　使用ポートはMachiKania type Pと同じ  
 
 　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
