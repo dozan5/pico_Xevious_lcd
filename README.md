@@ -118,15 +118,15 @@ Arduinoシールド用　　　　　確認済みLCD
 
 　　GPI27　　FM_SS(FM接続用SPI）  
 
+　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
+　　同じポートを使用。  
+
 　SPI接続版  
 ![](Xevious5.jpg)  
 
 　液晶接続など使用ポートはMachiKania type Pと同様  
 　「MACHIKAP.INI」にLCD180TURNと記載すると表示を180度反転します。  
 　
-　※注意　SPIクロックはオーバークロック（62.5MHz）しています  
-
-　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
-　　同じポートを使用。  
+　※注意　SPIクロックはオーバークロック（62.5MHz）しています。  
 
 MachiKania type Pフォルダー内のファイルを参照ください。  
