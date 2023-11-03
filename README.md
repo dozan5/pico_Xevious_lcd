@@ -122,7 +122,7 @@ Arduinoシールド用　　　　　確認済みLCD
 ![](Xevious5.jpg)  
 
 　液晶接続など使用ポートはMachiKania type Pと同様  
-　「MACHIKAP.INI」にLCD180TURNと記載すると表示を180度反転します。
+　「MACHIKAP.INI」にLCD180TURNと記載すると表示を180度反転します。 
 　
 　※注意　SPIクロックはオーバークロック（62.5MHz）しています  
 
