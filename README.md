@@ -121,8 +121,10 @@ Arduinoシールド用　　　　　確認済みLCD
 　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
 
-　SPI接続版  
+　SPI接続版(縦バージョン）  
 ![](Xevious5.jpg)  
+　SPI接続版(横バージョン）  
+![](Xevious6.jpg)  
 
 　液晶接続など使用ポートはMachiKania type Pと同様です。  
 　「MACHIKAP.INI」に「LCD180TURN」と記載すると表示を180度反転します。  
