@@ -126,7 +126,7 @@ Arduinoシールド用　　　　　確認済みLCD
 　SPI接続版(HORIZONTALバージョン）  
 ![](Xevious6.jpg)  
 
-　※HORIZONTALバージョンの実行ファイルが違う物がUpしていましたので再度Upしました。（2023/11/26）  
+　※HORIZONTALバージョンのNormal版の実行ファイルを修正しました。（2023/11/26）  
 
 　液晶接続など使用ポートはMachiKania type Pと同様です。  
 　「MACHIKAP.INI」に「LCD180TURN」と記載すると表示を180度反転します。  
