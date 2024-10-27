@@ -127,7 +127,6 @@ Arduinoシールド用　　　　　確認済みLCD
 ![](Xevious6.jpg)  
 
 　※HORIZONTALバージョンのNormal版の実行ファイルを修正しました。（2023/11/26）  
-　※PICO2対応版を追加しました。（2024/10/27）  
 
 　液晶接続など使用ポートはMachiKania type Pと同様です。  
 　「MACHIKAP.INI」に「LCD180TURN」と記載すると表示を180度反転します。  
@@ -137,3 +136,4 @@ Arduinoシールド用　　　　　確認済みLCD
 
 MachiKania type Pフォルダー内のファイルを参照ください。  
 　SPIフォルダーにPico版、Pico2版に分けて保存しています。  
+　※Pico2対応版を追加しました。（2024/10/27）  
