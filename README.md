@@ -121,4 +121,5 @@ Arduinoシールド用　　　　　確認済みLCD
 　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
 
- SPI接続版は[phyllosoma_P_pico_Xevious_lcd](https://github.com/dozan5/phyllosoma_P_pico_Xevious_lcd)へ移動しました。  
+ SPI版は[phyllosoma_P_pico_Xevious_lcd](https://github.com/dozan5/phyllosoma_P_pico_Xevious_lcd)へ移動しました。  
+ NTSC版は[phyllosoma_PU_pico_Xevious_ntsc](https://github.com/dozan5/phyllosoma_PU_pico_Xevious_ntsc)へ移動しまし。  
