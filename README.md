@@ -120,20 +120,3 @@ Arduinoシールド用　　　　　確認済みLCD
 
 　　PWM_SOUNDとGameコントローラーはMachiKania type Pと  
 　　同じポートを使用。  
-
-　SPI接続版(VERTICALバージョン）  
-![](Xevious5.jpg)  
-　SPI接続版(HORIZONTALバージョン）  
-![](Xevious6.jpg)  
-
-　※HORIZONTALバージョンのNormal版の実行ファイルを修正しました。（2023/11/26）  
-
-　液晶接続など使用ポートはMachiKania type Pと同様です。  
-　「MACHIKAP.INI」に「LCD180TURN」と記載すると表示を180度反転します。  
-　　又「ROTATEBUTTONS」を記載すると上下左右ボタンを入れ替ます。  
-　
-　※SPIクロックはオーバークロック（62.5MHz）しています。  
-
-MachiKania type Pフォルダー内のファイルを参照ください。  
-　SPIフォルダーにpico版、pico2版に分けて保存しています。  
-　※pico2対応版を追加しました。（2024/10/28）  
