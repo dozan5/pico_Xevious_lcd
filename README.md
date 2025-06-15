@@ -122,4 +122,4 @@ Arduinoシールド用　　　　　確認済みLCD
 　　同じポートを使用。  
 
  SPI版は[phyllosoma_P_pico_Xevious_lcd](https://github.com/dozan5/phyllosoma_P_pico_Xevious_lcd)へ移動しました。  
- NTSC版は[phyllosoma_PU_pico_Xevious_ntsc](https://github.com/dozan5/phyllosoma_PU_pico_Xevious_ntsc)へ移動しまし。  
+ NTSC版は[phyllosoma_PU_pico_Xevious_ntsc](https://github.com/dozan5/phyllosoma_PU_pico_Xevious_ntsc)へ移動しました。  
