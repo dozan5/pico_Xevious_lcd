@@ -1,3 +1,8 @@
-SPIÚ‘±‚Í
-@@@https://github.com/dozan5/phyllosoma_P_pico_Xevious_lcd
-‚ÖˆÚ“®‚µ‚Ü‚µ‚½B
+SPIæ¥ç¶šã¯
+ã€€ã€€ã€€https://github.com/dozan5/phyllosoma_P_pico_Xevious_lcd
+ã¸ç§»å‹•ã—ã¾ã—ãŸã€‚
+New
+ã€€MachiKania type PUç‰ˆ  
+ã€€ã€€ã€€https://github.com/dozan5/phyllosoma_PU_pico_Xevious_ntsc  
+  ResTouchç‰ˆ  
+ã€€ã€€ã€€https://github.com/dozan5/ResTouch_pico_Xevious_lcd  
