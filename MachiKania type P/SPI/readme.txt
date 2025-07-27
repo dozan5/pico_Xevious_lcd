@@ -4,3 +4,6 @@ SPI接続は
 ※　2025/06/29　追加  
   ResTouch版  
 　　　https://github.com/dozan5/ResTouch_pico_Xevious_lcd  
+※　2025/07/27　追加  
+  MachiKania type PU版  
+　　　https://github.com/dozan5/phyllosoma_PU_pico_Xevious_ntsc  
